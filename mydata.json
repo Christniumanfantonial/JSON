@@ -1,29 +1,32 @@
 {
-	"info": 
-	[
-		{
-			"Name": "Christ Niuman L. Fantonial",
-			"age": 22,
-			"quotes": "Nothing is Impossible"
-		}
-	],
-  {
-			"Name": "James Reid",
-			"age": 22,
-			"quotes": "Impossible is Nothing"
-		}
-	],
-	"info1": 
-	[
-		{
-			"classSection": "BSIT-3A",
-			"sectionCode": "T221",
-			"buksuEmail": "1901104569@student.buksu.edu.ph"
-		},
-    {
-			"classSection": "BSIT-3B",
-			"sectionCode": "T220",
-			"buksuEmail": "2001105287@student.buksu.edu.ph"
-		}
-	]				
+    "info": [
+        {
+            "Full_name": "Fiel Mangginimba",
+            "age": 30,
+            "favorite_qoutes": [
+                "Life is 10% what happens to us and 90% how we react to it.",
+                "In the end, we only regret the chances we didn't take."
+            ]
+        },
+        {
+            "Full_name": "Jane Smith",
+            "age": 25,
+            "favorite_qoutes": [
+                "Believe you can and you're halfway there.",
+                "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            ]
+        }
+    ],
+    "info1": [
+        {
+            "section": "A",
+            "code": "IT202",
+            "email": "fielmangginimba@student.buksu.edu.ph"
+        },
+        {
+            "section": "B",
+            "code": "CS101",
+            "email": "janesmith@student.buksu.edu.ph"
+        }
+    ]
 }
